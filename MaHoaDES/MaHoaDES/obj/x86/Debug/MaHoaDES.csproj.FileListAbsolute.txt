@@ -1,0 +1,10 @@
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Debug\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Debug\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmTienTrinh.resources

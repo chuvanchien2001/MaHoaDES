@@ -1,0 +1,66 @@
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmTienTrinh.resources
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csprojAssemblyReference.cache
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmTienTrinh.resources
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.GenerateResource.cache
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.CoreCompileInputs.cache
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+C:\Users\duato\Downloads\Compressed\DEMO_DES\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csprojAssemblyReference.cache
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmTienTrinh.resources
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.GenerateResource.cache
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.CoreCompileInputs.cache
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
+C:\Users\duato\Documents\GitHub\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe.config
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.AssemblyReference.cache
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.SuggestedBindingRedirects.cache
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmTienTrinh.resources
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.GenerateResource.cache
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.CoreCompileInputs.cache
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe.config
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+D:\[123doc] - AnToanBaoMat-MaHoaDES-SharmiSecretSharing\SourceCode\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe.config
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.AssemblyReference.cache
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.SuggestedBindingRedirects.cache
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmTienTrinh.resources
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.GenerateResource.cache
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.CoreCompileInputs.cache
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+D:\NgoVanBang-2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe.config
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.AssemblyReference.cache
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmTienTrinh.resources
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.GenerateResource.cache
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.CoreCompileInputs.cache
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+C:\Users\chu van chien\Downloads\Nhom1_NgoVanBang_2019603303\Nhom1_NgoVanBang_2019603303\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
